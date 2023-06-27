@@ -1,0 +1,183 @@
+{
+  "profile": "tabular-data-resource",
+  "name": "",
+  "title": "",
+  "description": "",
+  "resources": [
+    {
+      "profile": "tabular-data-resource",
+      "name": "employees",
+      "path": "",
+      "title": "employees",
+      "description": "Metadata for the table: employees",
+      "format": "",
+      "mediatype": "",
+      "encoding": "",
+      "bytes": "",
+      "hash": "",
+      "schema": {
+        "fields": [
+          {
+            "name": "employee_id",
+            "types": "string",
+            "format": "",
+            "description": "",
+            "constraints": {
+              "required": "",
+              "unique": ""
+            },
+            "stats": {
+              "min": 0,
+              "max": 0,
+              "mean": 0,
+              "std": 0,
+              "nullValueCounts": 0,
+              "present_value_counts": 5,
+              "uniqueValueCounts": 5,
+              "nullProportion": 0,
+              "uniqueProportion": 100
+            }
+          },
+          {
+            "name": "first_name",
+            "types": "string",
+            "format": "",
+            "description": "",
+            "constraints": {
+              "required": "",
+              "unique": ""
+            },
+            "stats": {
+              "min": 0,
+              "max": 0,
+              "mean": 0,
+              "std": 0,
+              "nullValueCounts": 0,
+              "present_value_counts": 5,
+              "uniqueValueCounts": 5,
+              "nullProportion": 0,
+              "uniqueProportion": 100
+            }
+          },
+          {
+            "name": "last_name",
+            "types": "string",
+            "format": "",
+            "description": "",
+            "constraints": {
+              "required": "",
+              "unique": ""
+            },
+            "stats": {
+              "min": 0,
+              "max": 0,
+              "mean": 0,
+              "std": 0,
+              "nullValueCounts": 0,
+              "present_value_counts": 5,
+              "uniqueValueCounts": 5,
+              "nullProportion": 0,
+              "uniqueProportion": 100
+            }
+          },
+          {
+            "name": "email",
+            "types": "string",
+            "format": "",
+            "description": "",
+            "constraints": {
+              "required": "",
+              "unique": ""
+            },
+            "stats": {
+              "min": 0,
+              "max": 0,
+              "mean": 0,
+              "std": 0,
+              "nullValueCounts": 0,
+              "present_value_counts": 5,
+              "uniqueValueCounts": 5,
+              "nullProportion": 0,
+              "uniqueProportion": 100
+            }
+          },
+          {
+            "name": "hire_date",
+            "types": "string",
+            "format": "",
+            "description": "",
+            "constraints": {
+              "required": "",
+              "unique": ""
+            },
+            "stats": {
+              "min": 0,
+              "max": 0,
+              "mean": 0,
+              "std": 0,
+              "nullValueCounts": 0,
+              "present_value_counts": 5,
+              "uniqueValueCounts": 5,
+              "nullProportion": 0,
+              "uniqueProportion": 100
+            }
+          },
+          {
+            "name": "salary",
+            "types": "string",
+            "format": "",
+            "description": "",
+            "constraints": {
+              "required": "",
+              "unique": ""
+            },
+            "stats": {
+              "min": 0,
+              "max": 0,
+              "mean": 0,
+              "std": 0,
+              "nullValueCounts": 0,
+              "present_value_counts": 5,
+              "uniqueValueCounts": 5,
+              "nullProportion": 0,
+              "uniqueProportion": 100
+            }
+          },
+          {
+            "name": "department_id",
+            "types": "string",
+            "format": "",
+            "description": "",
+            "constraints": {
+              "required": "",
+              "unique": ""
+            },
+            "stats": {
+              "min": 0,
+              "max": 0,
+              "mean": 0,
+              "std": 0,
+              "nullValueCounts": 0,
+              "present_value_counts": 5,
+              "uniqueValueCounts": 3,
+              "nullProportion": 0,
+              "uniqueProportion": 60
+            }
+          }
+        ]
+      },
+      "dialect": {
+        "caseSensitiveHeader": "",
+        "delimiter": "",
+        "doubleQuote": "",
+        "header": "",
+        "lineTerminator": "",
+        "quoteChar": "",
+        "skipInitialSpace": "",
+        "rowsCount": 0,
+        "columnsCount": 0
+      },
+      "version": ""
+    }
+  ]
+}

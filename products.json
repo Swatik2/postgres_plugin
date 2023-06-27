@@ -1,0 +1,141 @@
+{
+  "profile": "tabular-data-resource",
+  "name": "",
+  "title": "",
+  "description": "",
+  "resources": [
+    {
+      "profile": "tabular-data-resource",
+      "name": "products",
+      "path": "",
+      "title": "products",
+      "description": "Metadata for the table: products",
+      "format": "",
+      "mediatype": "",
+      "encoding": "",
+      "bytes": "",
+      "hash": "",
+      "schema": {
+        "fields": [
+          {
+            "name": "product_id",
+            "types": "string",
+            "format": "",
+            "description": "",
+            "constraints": {
+              "required": "",
+              "unique": ""
+            },
+            "stats": {
+              "min": 0,
+              "max": 0,
+              "mean": 0,
+              "std": 0,
+              "nullValueCounts": 0,
+              "present_value_counts": 10,
+              "uniqueValueCounts": 10,
+              "nullProportion": 0,
+              "uniqueProportion": 100
+            }
+          },
+          {
+            "name": "product_name",
+            "types": "string",
+            "format": "",
+            "description": "",
+            "constraints": {
+              "required": "",
+              "unique": ""
+            },
+            "stats": {
+              "min": 0,
+              "max": 0,
+              "mean": 0,
+              "std": 0,
+              "nullValueCounts": 0,
+              "present_value_counts": 10,
+              "uniqueValueCounts": 10,
+              "nullProportion": 0,
+              "uniqueProportion": 100
+            }
+          },
+          {
+            "name": "category",
+            "types": "string",
+            "format": "",
+            "description": "",
+            "constraints": {
+              "required": "",
+              "unique": ""
+            },
+            "stats": {
+              "min": 0,
+              "max": 0,
+              "mean": 0,
+              "std": 0,
+              "nullValueCounts": 0,
+              "present_value_counts": 10,
+              "uniqueValueCounts": 7,
+              "nullProportion": 0,
+              "uniqueProportion": 70
+            }
+          },
+          {
+            "name": "price",
+            "types": "string",
+            "format": "",
+            "description": "",
+            "constraints": {
+              "required": "",
+              "unique": ""
+            },
+            "stats": {
+              "min": 0,
+              "max": 0,
+              "mean": 0,
+              "std": 0,
+              "nullValueCounts": 0,
+              "present_value_counts": 10,
+              "uniqueValueCounts": 10,
+              "nullProportion": 0,
+              "uniqueProportion": 100
+            }
+          },
+          {
+            "name": "in_stock",
+            "types": "string",
+            "format": "",
+            "description": "",
+            "constraints": {
+              "required": "",
+              "unique": ""
+            },
+            "stats": {
+              "min": 0,
+              "max": 0,
+              "mean": 0,
+              "std": 0,
+              "nullValueCounts": 0,
+              "present_value_counts": 10,
+              "uniqueValueCounts": 2,
+              "nullProportion": 0,
+              "uniqueProportion": 20
+            }
+          }
+        ]
+      },
+      "dialect": {
+        "caseSensitiveHeader": "",
+        "delimiter": "",
+        "doubleQuote": "",
+        "header": "",
+        "lineTerminator": "",
+        "quoteChar": "",
+        "skipInitialSpace": "",
+        "rowsCount": 0,
+        "columnsCount": 0
+      },
+      "version": ""
+    }
+  ]
+}
